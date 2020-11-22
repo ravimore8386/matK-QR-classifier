@@ -32,9 +32,11 @@ Sample_matK_Sequences
 3. If Microsoft .NET Framework 4 is not pre-installed, in this case it will automatically get install.
 
 (Note: Please keep internet connection enable during installations for download supporting files.)
+```
 
-Installation Steps:
+## Installation Steps:
 
+```
 Step 1: Download and Unzip matK-QR Classifier Windows installation package.
 
 Step 2: Run the 'setup.exe' file from extracted folder
@@ -59,7 +61,7 @@ Step 5: Open target folder (Ex. Desktop/Result) and open output results files.
 ```
 
 ## Citation:
-matK-QR classifier: a patterns based approach for plant species identification, Ravi P More, RC Mane, HJ Purohit, BMC BioData Mining 9 (1), 39, 2016, (IF: 1.6)
+matK-QR classifier: a patterns based approach for plant species identification, Ravi P More, RC Mane, HJ Purohit, BMC BioData Mining 9 (1), 39, 2016
 
 [PUBMED LINK https://pubmed.ncbi.nlm.nih.gov/27104769/]
 
@@ -67,10 +69,16 @@ https://www.liebertpub.com/doi/10.1089/cmb.2016.0002?url_ver=Z39.88-2003&rfr_id=
 
 ## Contact:
 
-Dr. Ravi P. More and Dr. Hemant J. Purohit
+Dr. Ravi Prabhakar More and Dr. Hemant J. Purohit
+
 Environmental Genomics Division (EGD),
+
 CSIR - National Environmental Engineering Research Institute (NEERI),
+
 Nehru Marg, Nagpur 440 020, Maharashtra, India
-Telephone: +91-712 2249883; Fax: +91-7122243927
+
 Email: hj_purohit@neeri.res.in
-For technical queries, please contact to Dr. Ravi Prabhakar More on email: ravipmore7@gmail.com, ravimore7@yahoo.in
+
+For technical queries, please contact to Dr. Ravi Prabhakar More on email: 
+
+ravipmore7@gmail.com, ravimore7@yahoo.in
