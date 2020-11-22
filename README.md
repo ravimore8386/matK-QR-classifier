@@ -59,22 +59,18 @@ Step 5: Open target folder (Ex. Desktop/Result) and open output results files.
 ```
 
 ## Citation:
-matK-QR classifier: a patterns based approach for plant species identification, Ravi P More, RC Mane, HJ Purohit, BMC BioData Mining 9 (1), 39, 2016, (IF: 1.6) 
+matK-QR classifier: a patterns based approach for plant species identification, Ravi P More, RC Mane, HJ Purohit, BMC BioData Mining 9 (1), 39, 2016, (IF: 1.6)
+
 [PUBMED LINK https://pubmed.ncbi.nlm.nih.gov/27104769/]
+
 https://www.liebertpub.com/doi/10.1089/cmb.2016.0002?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
 
 ## Contact:
 
 Dr. Ravi P. More and Dr. Hemant J. Purohit
-
 Environmental Genomics Division (EGD),
-
 CSIR - National Environmental Engineering Research Institute (NEERI),
-
 Nehru Marg, Nagpur 440 020, Maharashtra, India
-
 Telephone: +91-712 2249883; Fax: +91-7122243927
-
 Email: hj_purohit@neeri.res.in
-
 For technical queries, please contact to Dr. Ravi Prabhakar More on email: ravipmore7@gmail.com, ravimore7@yahoo.in
