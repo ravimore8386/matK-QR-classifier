@@ -67,6 +67,10 @@ matK-QR classifier: a patterns based approach for plant species identification, 
 
 https://www.liebertpub.com/doi/10.1089/cmb.2016.0002?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
 
+## Developed by: Ravi P. More, Rupali C. Mane, Trupti Sawalkar (MDS Bioanalytics)
+
+## Conceptualised by: Ravi P. More, Dr. Hemant Purohit, Dr. DV Raje (MDS Bioanalytics)
+
 ## Contact:
 
 Dr. Ravi Prabhakar More and Dr. Hemant J. Purohit
